@@ -1,22 +1,22 @@
 html, body {
     margin: 0;
     height: 100%;
-  }
-  #c {
+}
+#c {
     width: 100%;
     height: 100%;
     display: block;
-  }
-  .split {
+}
+.split {
     position: absolute;
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
     display: flex;
-  }
-  .split>div {
+}
+.split > div {
     width: 100%;
     height: 100%;
-  }
+}
   
